@@ -13,6 +13,9 @@
         <div class="column-header">WRITING</div>
     </section>
 </main>
+<footer>
+    <p>Want to find more information? Check out my <a href="https://byjoysu.com" target="_blank">personal website</a> or <a href="https://github.com/joysudo" target="_blank">Github</a>.</p>
+</footer>
 
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Lexend+Exa:wght@200;400;700&display=swap');
@@ -23,6 +26,7 @@
         padding: 0;
         font-family: 'Space Mono', monospace;
     }
+
     header {
         display: inline-block;
         border: 3px solid black;
@@ -58,5 +62,16 @@
         border-radius: 6767px;
         top: 10vh;
         font-family: 'Lexend Exa', sans-serif;
+    }
+
+    footer {
+        padding: 4rem;
+        text-align: center;
+        background: darkolivegreen;
+        color: whitesmoke;
+    }
+
+    footer a {
+        color: darkseagreen;
     }
 </style>
