@@ -336,4 +336,11 @@
     footer a {
         color: darkseagreen;
     }
+
+    @media (max-width: 767px) {
+        .grid {
+            display: flex;
+            flex-direction: column;
+        }
+    }
 </style>
