@@ -2,7 +2,7 @@
     <img src="/favicon.png" alt=""/>
     <div>
         <h1>Joy Su(do)</h1>
-        <p>Tall person, short name, long list.</p>
+        <p>Tall person, short name, & the abbreviated list.</p>
     </div>
 </header>
 <main>
@@ -19,6 +19,7 @@
                 </div>
                 <a href="https://www.legis.iowa.gov/docs/publications/LGI/90/HF658.pdf" target="_blank">Read the text of the bill</a>
                 <a href="https://docs.google.com/document/d/1aDBNogBameubbESAtvewgihN5EQeK5vPrb5w1EKq8CQ/edit?tab=t.0" target="_blank">Read an example FAQ I wrote</a>
+                <a href="https://www.instagram.com/p/CpS82UGuMqd/">See a post from a democratic sponsor</a>
             </div>
             <div class="project-card">
                 <h3>Middle School Programs @ Pi515</h3>
@@ -53,7 +54,7 @@
             <h2 class="column-header">Illustration</h2>
             <div class="project-card">
                 <h3>Unmute! w/ Mental Health Americaa</h3>
-                <p>This was a project I developed from concept to execution. It's in this section because the other one wasn overflowing. Coordinated 10 performers, got sponsorship from Mental Health America, got a venue at Cabarrus Arts Council. I also helped develop the visual identity of the project, creating all of our marketing materials. Used a lot of halftones in Adobe Illustrator.</p>
+                <p>This was a project I developed from concept to execution. It's in this section because the other one was overflowing. Coordinated 10 performers, got sponsorship from Mental Health America, got a venue at Cabarrus Arts Council. I also helped develop the visual identity of the project, creating all of our marketing materials. Used a lot of halftones in Adobe Illustrator.</p>
                 <img src="https://cdn.hackclub.com/019d1639-921e-701c-a35e-5fe2648ad4b4/IMG_8306.jpeg" alt=""/>
                 <img src="https://cdn.hackclub.com/019d1600-69c3-793e-b7c7-ca044a5f0588/6df67bb8-1.png" alt=""/>
             </div>
@@ -63,7 +64,6 @@
                 <img src="https://cdn.hackclub.com/019d1647-d3b9-7999-9143-fc5182cb552f/Screenshot%202026-03-22%20082852.png" alt=""/>
                 <a href="https://prototype-w87m.vercel.app/">See the website</a>
                 <!-- <img src="https://cdn.hackclub.com/019d1647-de79-77e3-b820-b0079c3a89fc/Screenshot%202026-03-22%20082928.png" alt=""/> -->
-                <img src="https://cdn.hackclub.com/019d164a-864d-722c-8aae-b667ae725f85/IMG_0154.png" alt=""/>
             </div>
             <div class="project-card">
                 <h3>Clearing the Air</h3>
@@ -73,7 +73,7 @@
             </div>
             <div class="project-card">
                 <h3>What?</h3>
-                <p>What is that? I have no idea.</p>
+                <p>What's going on under here? I have no idea.</p>
                 <img src="https://cdn.hackclub.com/019d164f-621e-79e5-83d0-51435fe78b09/Screenshot%202026-03-22%20120943.png" alt=""/>
                 <a href="https://docs.google.com/document/d/1edhOnAOpH1F8vTHUd0dS5GoyUrXs83TYbwDky-OlLLA/edit?usp=sharing">That's crazy bro</a>
             </div>
@@ -120,8 +120,8 @@
             </div>
             <div class="project-card">
                 <h3>Yum</h3>
-                <p>I make incredible cookies. Side effect of having two little sisters & having lived alone for a while.</p>
-                <img src="https://cdn.hackclub.com/019d1682-6b6f-7e33-843f-21594e46d9cd/IDG_20260222_105104_511.JPG" alt=""/>
+                <p>I make incredible cookies. Side effect of having two little sisters & having lived alone for a while. These are banana bread brown butter chocolate chip.</p>
+                <img src="https://cdn.hackclub.com/019d16e3-ad24-7ce6-a6a2-e261f0790557/IDG_20260222_105104_511(1).JPG" alt=""/>
             </div>
             <div class="project-card">
                 <h3>Cattatime Studios</h3>
@@ -132,6 +132,28 @@
                 <a href="https://github.com/joysudo/cattatime">Download Cattatime</a>
             </div>
         </section>
+    </div>
+    <div class="project-card art">
+        <h3>Miscellaneous art</h3>
+        <div class="art-wrapper">
+            <img src="https://cdn.hackclub.com/019d164a-864d-722c-8aae-b667ae725f85/IMG_0154.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d16ed-5d2a-75b9-8a03-8e17be97e1a3/stupid_cupid_assets_scaled_6x_pngcrushed.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d1684-390e-7fa4-b14d-16581702d4ea/cattatime3d.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d16fb-940c-794e-bb87-13035a625fad/various%20nsa%20posts(1).png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d16fb-86ac-736f-b956-0dd2218686c1/various%20nsa%20posts.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d1647-bd74-762f-a071-e425caca25e4/clearingtheair.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d16ff-efa4-7546-abca-56fcccb56a2b/axolotl_tat.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d1700-0735-7e56-9007-eccc78ddeb95/Turret.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d1702-24b2-7af7-97ab-f796f944b8ea/Screenshot%202026-03-22%20152428.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d170a-1eef-7fc3-be29-e79dda0e14d6/Screenshot%202026-03-22%20153346.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d170a-d433-7b69-8283-637f88ccd232/Otter.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d170a-dff0-7024-8eb5-2b3a0c9c94e5/Untitled_Artwork(7).png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d170d-421e-733a-9f42-b167efb37deb/Screenshot%202026-03-22%20153633.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d170f-525e-73d2-b431-b97ef526cf0f/Screenshot%202026-03-22%20153929.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d1710-380e-7bfa-a7af-ca177f3c4506/various%20nsa%20posts(3).png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d166b-8967-79dc-84d3-f9760c74daed/image%20(1).png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d1600-69c3-793e-b7c7-ca044a5f0588/6df67bb8-1.png" alt=""/>
+        </div>
     </div>
     <div class="project-card bottom">
         <h3>Here's what I'm most comfortable in:</h3>
@@ -275,8 +297,27 @@
     ul {
         margin-left: 1rem;
     }
-    .bottom {
+
+    .art {
         margin: 2rem 2vw;
+        width: 96vw;
+    }
+
+    .art-wrapper {
+        gap: 1rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .art-wrapper img {
+        height: 10rem;
+        width: fit-content !important;
+        object-fit: contain;
+    }
+
+    .bottom {
+        margin: 1rem 2vw;
         margin-bottom: 3rem;
         animation: float 5s ease-in-out infinite alternate;
     }
