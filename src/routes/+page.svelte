@@ -24,34 +24,32 @@
 </footer>
 
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Lexend+Exa:wght@200;400;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap'); 
 
     :global(body) {
         margin: 0;
         text-align: center;
-        background-color: color-mix(in srgb, darkolivegreen 15%, whitesmoke);
+        background-color: color-mix(in srgb, darkolivegreen 15%, mintcream);
     }
 
     * {
         box-sizing: border-box;
         margin: 0;
         padding: 0;
-        font-family: 'Space Mono', monospace;
-    }
-
-    h1, h2, h3 {
-        font-family: 'Lexend Exa', sans-serif;
+        font-family: 'Nanum Pen Script', monospace;
+        color: darkolivegreen;
+        line-height: 1.2rem;
     }
     
     header {
         display: inline-block;
-        background-color: whitesmoke;
+        background-color: mintcream;
         border: 2px solid darkolivegreen;
         padding: 2rem 4rem;
         border-radius: 4rem 1rem;
         margin-top: 2rem;
         margin-bottom: 3rem;
-        box-shadow: 0.75rem 0.75rem 0 darkolivegreen;
+        box-shadow: -0.5rem 0.5rem 0 darkolivegreen;
         animation: hover 2s ease-in-out infinite alternate;
     }
 
@@ -79,35 +77,39 @@
         padding: 1rem;
         z-index: 67;
         background: darkolivegreen;
-        color: whitesmoke;
+        color: mintcream;
         text-align: center;
         border-radius: 6767px;
-        transition: transform 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+        transition: transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
     }
 
     .column-header:hover {
         transform: translate(0.25rem, -0.25rem);
-        box-shadow: -0.25rem 0.25rem 0 color-mix(in srgb, darkolivegreen 50%, whitesmoke);
+        box-shadow: -0.25rem 0.25rem 0 color-mix(in srgb, darkolivegreen 50%, mintcream);
     }
 
     .project-card {
         display: flex;
         flex-direction: column;
-        background: whitesmoke;
+        background: mintcream;
         border: 2px solid darkolivegreen;
         border-radius: 1rem;
         padding: 1rem;
         gap: 0.5rem;
         text-align: left;
-        box-shadow: 0 0 0 color-mix(in srgb, darkolivegreen 25%, whitesmoke);
-        transition: transform 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+        box-shadow: 0 0 0 color-mix(in srgb, darkolivegreen 25%, mintcream);
+        transition: transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
     }
 
     .project-card:hover {
-        transform: translate(0.5rem, -0.25rem);
-        box-shadow: -0.25rem 0.5rem 0 color-mix(in srgb, darkolivegreen 50%, whitesmoke);
+        transform: translate(0.5rem, -0.35rem);
+        box-shadow: -0.35rem 0.5rem 0 color-mix(in srgb, darkolivegreen 50%, mintcream);
     }
 
+    .project-card h3 {
+        font-size: 1.5rem;
+    }
+    
     .project-card img {
         width: 100%;
         border-radius: 1rem;
@@ -117,7 +119,7 @@
     .project-card a {
         display: block;
         background-color: sienna;
-        color: whitesmoke;
+        color: mintcream;
         padding: 0.5rem 1rem;
         border-radius: 1rem;
         font-weight: bold;
@@ -134,7 +136,10 @@
         margin-top: 2rem;
         text-align: center;
         background: darkolivegreen;
-        color: whitesmoke;
+    }
+
+    footer p {
+        color: mintcream;
     }
 
     footer a {
