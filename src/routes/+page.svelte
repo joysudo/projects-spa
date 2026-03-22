@@ -63,7 +63,6 @@
                 <p>I attended Prototype, a hardware hackathon in San Jose, and built Stack the Circus with Emma and Ryan. Following the event, I built the official recap website and gallery of winners. Sveltekit.</p>
                 <img src="https://cdn.hackclub.com/019d1647-d3b9-7999-9143-fc5182cb552f/Screenshot%202026-03-22%20082852.png" alt=""/>
                 <a href="https://prototype-w87m.vercel.app/">See the website</a>
-                <!-- <img src="https://cdn.hackclub.com/019d1647-de79-77e3-b820-b0079c3a89fc/Screenshot%202026-03-22%20082928.png" alt=""/> -->
             </div>
             <div class="project-card">
                 <h3>Clearing the Air</h3>
@@ -76,6 +75,7 @@
                 <p>What's going on under here? I have no idea.</p>
                 <img src="https://cdn.hackclub.com/019d164f-621e-79e5-83d0-51435fe78b09/Screenshot%202026-03-22%20120943.png" alt=""/>
                 <a href="https://docs.google.com/document/d/1edhOnAOpH1F8vTHUd0dS5GoyUrXs83TYbwDky-OlLLA/edit?usp=sharing">That's crazy bro</a>
+                <p>Ft. things I can't leak—DM me!</p>
             </div>
             <div class="project-card">
                 <h3>Campfire S'more</h3>
@@ -89,9 +89,9 @@
             </div>
         </section>
         <section class="column">
-            <h2 class="column-header">Writing/Hobbies</h2>
+            <h2 class="column-header">Hobbies/Miscellaneous</h2>
             <div class="project-card">
-                <h3>Assorted Accolades</h3>
+                <h3>Creative Writing</h3>
                 <p>Fun fact: I lived alone for a year in seventh grade and and studied creative writing at a nearby magnet school. I've kept it up since.</p>
                 <p>I've won various awards in writing, including:</p>
                 <ul>
@@ -146,6 +146,7 @@
             <img src="https://cdn.hackclub.com/019d1700-0735-7e56-9007-eccc78ddeb95/Turret.png" alt=""/>
             <img src="https://cdn.hackclub.com/019d1702-24b2-7af7-97ab-f796f944b8ea/Screenshot%202026-03-22%20152428.png" alt=""/>
             <img src="https://cdn.hackclub.com/019d170a-1eef-7fc3-be29-e79dda0e14d6/Screenshot%202026-03-22%20153346.png" alt=""/>
+            <img src="https://cdn.hackclub.com/019d171b-86cb-77f5-a8d9-d2937b4647aa/Untitled_Artwork(8).png" alt=""/>
             <img src="https://cdn.hackclub.com/019d170a-d433-7b69-8283-637f88ccd232/Otter.png" alt=""/>
             <img src="https://cdn.hackclub.com/019d170a-dff0-7024-8eb5-2b3a0c9c94e5/Untitled_Artwork(7).png" alt=""/>
             <img src="https://cdn.hackclub.com/019d170d-421e-733a-9f42-b167efb37deb/Screenshot%202026-03-22%20153633.png" alt=""/>
