@@ -1,6 +1,9 @@
 <header>
-    <h1>Joy Su(do)</h1>
-    <p>Tall person, short name, long list</p>
+    <img src="/favicon.png" alt=""/>
+    <div>
+        <h1>Joy Su(do)</h1>
+        <p>Tall person, short name, long list.</p>
+    </div>
 </header>
 <main>
     <div class="grid">
@@ -148,7 +151,7 @@
 </main>
 
 <footer>
-    <p>Want to find more information? Check out my <a href="https://byjoysu.com" target="_blank">personal website</a> or <a href="https://github.com/joysudo" target="_blank">Github</a>.</p>
+    <p>Want more info? Check out my <a href="https://byjoysu.com" target="_blank">personal website</a> or <a href="https://github.com/joysudo" target="_blank">Github</a>.</p>
 </footer>
 
 <style>
@@ -174,15 +177,26 @@
     }
 
     header {
-        display: inline-block;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+        width: fit-content;
         background-color: snow;
         border: 2px solid darkolivegreen;
         padding: 2rem 4rem;
         border-radius: 4rem 1rem;
+        margin: 0 auto;
         margin-top: 2rem;
         margin-bottom: 3rem;
         box-shadow: -0.5rem 0.5rem 0 darkolivegreen;
         animation: float 2s ease-in-out infinite alternate;
+    }
+
+    header img {
+        height: 3rem;
+        width: auto;
     }
 
     @keyframes float {
