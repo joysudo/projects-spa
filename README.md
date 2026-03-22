@@ -1,42 +1,9 @@
-# sv
+# SPA Joysudo Portfolio
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This is an abbreviated SPA version of my personal website. It covers student advocacy/education initiatives, illustration work, and incredible chocolate chip cookies I have made. It does not contain research, code projects, or my personal education.
 
-## Creating a project
+This is not meant to be a comprehensive list. It is not sorted according to what is objectively impressive and should not be seen as such. Instead, it includes some of my favorite projects from over the course of my high school years.
 
-If you're seeing this, you've probably already done this step. Congrats!
+<img width="1694" height="1143" alt="image" src="https://github.com/user-attachments/assets/c3a5fcec-072d-4404-aa5d-c60d66b6e6c1" />
 
-```sh
-# create a new project
-npx sv create my-app
-```
-
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-npx sv@0.12.8 create --template minimal --types ts --install npm ./
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+<img width="1690" height="1164" alt="image" src="https://github.com/user-attachments/assets/5c2ae821-460b-4165-b787-d98fcf27cf2e" />
